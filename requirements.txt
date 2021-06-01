@@ -1,0 +1,12 @@
+django
+djangorestframework
+psycopg2-binary
+celery
+uWSGI
+django-cors-headers
+django-debug-toolbar
+django-filter
+Pillow
+gunicorn
+drf-yasg
+django-redis-sessions
